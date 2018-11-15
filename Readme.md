@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.cs](./CS/WebSite/App_Code/Model.cs) (VB: [Model.vb](./VB/WebSite/App_Code/Model.vb))
+* [XpoHelper.cs](./CS/WebSite/App_Code/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/WebSite/App_Code/XpoHelper.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # How to force the grid to stay in Edit mode
 
 
