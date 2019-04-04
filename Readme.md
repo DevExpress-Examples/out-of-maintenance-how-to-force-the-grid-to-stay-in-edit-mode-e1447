@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/InstantEditing/Default.aspx) (VB: [Default.aspx](./VB/InstantEditing/Default.aspx))
-* [Default.aspx.cs](./CS/InstantEditing/Default.aspx.cs) (VB: [Default.aspx](./VB/InstantEditing/Default.aspx))
+* [Default.aspx.cs](./CS/InstantEditing/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/InstantEditing/Default.aspx.vb))
 * [Model.cs](./CS/InstantEditing/Model.cs) (VB: [Model.vb](./VB/InstantEditing/Model.vb))
 * [XpoHelper.cs](./CS/InstantEditing/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/InstantEditing/XpoHelper.vb))
 <!-- default file list end -->
