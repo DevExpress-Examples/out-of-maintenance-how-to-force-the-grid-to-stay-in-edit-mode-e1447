@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to force the grid to stay in Edit mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1447/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to programmatically switch the grid into edit mode, and to save changes when the row focus moves.</p><p><strong>See Also:</strong><br />
