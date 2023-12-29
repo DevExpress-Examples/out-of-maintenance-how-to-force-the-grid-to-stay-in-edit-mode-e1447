@@ -1,7 +1,3 @@
-<!-- default badges list -->
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1447)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -11,9 +7,6 @@
 * [XpoHelper.cs](./CS/InstantEditing/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/InstantEditing/XpoHelper.vb))
 <!-- default file list end -->
 # How to force the grid to stay in Edit mode
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1447/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to programmatically switch the grid into edit mode, and to save changes when the row focus moves.</p><p><strong>See Also:</strong><br />
